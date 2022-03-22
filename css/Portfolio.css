@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+
+}
+h1, h2 {
+  font-family: 'Dela Gothic One', cursive;
+}
+header {
+  background-color: white;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 5px;
+
+}
+header img{
+  border-radius: 170px;
+  width: 721px;
+
+}
+header h1 {
+  color: #2cd561;
+  font-size: 30px;
+}
+main {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+main img {
+  max-width: 100%;
+}
+main h2 {
+  font-size: 20px;
+}
+main p {
+  text-align: center;
+}
+footer {
+  text-align: center;
+  font-size: 12px;
+}
